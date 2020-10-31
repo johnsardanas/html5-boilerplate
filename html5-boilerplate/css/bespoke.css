@@ -125,6 +125,9 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
  .width-95{
      width: 95% !important;
 }
+ .width-10{
+     width: 100% !important;
+}
 
 /* DISPLAY */
 
@@ -4149,7 +4152,10 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
  .font-regular{
      font-weight: 400 !important;
 }
- .font-large{
+ .font-medium{
+     font-weight: 500 !important;
+}
+ .font-semi-bold{
      font-weight: 600 !important;
 }
  .font-bold{
